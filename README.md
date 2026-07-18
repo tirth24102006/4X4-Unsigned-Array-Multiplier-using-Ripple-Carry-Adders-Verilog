@@ -83,7 +83,7 @@ a[3:0] × b[3:0]  →  16 Partial Products (AND gates)
 ├── rca_tb.v       # Testbench for RCA
 ├── multiplication_tb.v          # Testbench for Multiplier
 ├── dump.vcd                     # Simulation waveform dump file
-├── schematic.png                # RTL schematic (Vivado)
+├── schematic.pdf                # RTL schematic (Vivado)
 ├── io_wave.png                  # Input/Output waveform (GTKWave)
 ├── console.png                  # Simulation console output
 └── README.md                    # This file
