@@ -76,11 +76,11 @@ a[3:0] × b[3:0]  →  16 Partial Products (AND gates)
 ## 🗂 Repository Structure
 
 ```
-├── fulladder.v                 # 1-bit Full Adder module
-├── rca.v                       # 4-bit Ripple Carry Adder module
-├── multiplication4x4.v             # 4x4 Array Multiplier (top module)
+├── fulladder.v                  # 1-bit Full Adder module
+├── rca.v                        # 4-bit Ripple Carry Adder module
+├── multiplication4x4.v          # 4x4 Array Multiplier (top module)
 ├── fulladder_tb.v               # Testbench for Full Adder
-├── rca_tb.v       # Testbench for RCA
+├── rca_tb.v                     # Testbench for RCA
 ├── multiplication_tb.v          # Testbench for Multiplier
 ├── dump.vcd                     # Simulation waveform dump file
 ├── schematic.pdf                # RTL schematic (Vivado)
