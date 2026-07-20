@@ -51,12 +51,12 @@ This bottom-up design approach (Full Adder → RCA → Multiplier) is a classic 
                            │  (x4, chained)
                            ▼
                 ┌─────────────────────┐
-                │  Ripple Carry Adder  │  (rca.v)
+                │ Ripple Carry Adder  │  (rca.v)
                 └──────────┬──────────┘
                            │  (x3, reused)
                            ▼
                 ┌─────────────────────┐
-                │  4x4 Array Multiplier│  (multiplication4x4.v)
+                │ 4x4 Array Multiplier│  (multiplication4x4.v)
                 └──────────┬──────────┘
                            │
                            ▼
