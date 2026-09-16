@@ -5,7 +5,7 @@ A 4×4 unsigned array multiplier built structurally in Verilog — Full Adder �
 
 A structural Verilog implementation of a **4-bit × 4-bit unsigned array multiplier**, built from the ground up using **Full Adders → Ripple Carry Adders (RCA) → Shift-Add Array Multiplier**. Designed, simulated, and verified using **Icarus Verilog**, **GTKWave**, **Xilinx Vivado**, and **VS Code**.
 
----
+--- 
 
 ## 📑 Table of Contents
 
