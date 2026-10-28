@@ -30,7 +30,7 @@ A structural Verilog implementation of a **4-bit × 4-bit unsigned array multipl
 
 ---
 
-## 📖 Overview
+## 📖 Overview 
 
 This project implements a **4×4 unsigned binary multiplier** entirely at the **gate/structural level** in Verilog — no `*` operator is used anywhere. The multiplier is built layer by layer:
 
